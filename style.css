@@ -1,0 +1,114 @@
+.box1{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+    border: 3px solid #000;
+    background-color: aqua;
+    background-image: radial-gradient(circle,white,pink, red);
+    
+}
+.box2{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+    border: 3px solid #000;
+    background-color: aqua;
+    background-image:conic-gradient(red 45deg,yellow 90deg,green 270deg);
+    
+}
+.box3{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #000;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image:conic-gradient(red 45deg,yellow 90deg,green 270deg);
+    
+}
+.box4{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #000;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image:conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+    color: #fff;
+}
+.box5{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #000;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image:repeating-conic-gradient(red 10%,pink 60deg 20deg); 
+}
+.box6{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 15px solid #000;
+    border-image: linear-gradient(green,cadetblue) 20;
+    background-color: aqua;
+    background-image:repeating-conic-gradient(red 10%,pink 60deg 20deg); 
+    color:#fff;
+}
+.box{
+    margin: 30px;
+    height: 250px;
+    width: 250px;
+    box-shadow:0 4px 8px 0 black;
+    /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+img{
+    width: 100%;
+}
+p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
